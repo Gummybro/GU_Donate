@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.DonationApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/luxury_gold</item>
+        <item name="colorPrimaryVariant">@color/luxury_gray</item>
+        <item name="colorOnPrimary">@color/luxury_white</item>
+        <item name="android:colorBackground">@color/luxury_black</item>
+        <item name="android:windowBackground">@color/luxury_black</item>
+    </style>
+</resources>
